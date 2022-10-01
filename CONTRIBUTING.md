@@ -1,4 +1,4 @@
-##Copy the below template, replace the boiler plate data (date in < >) and commit.
+## Copy the below template, replace the boiler plate data (date in < >) and commit.
 
 ```
 ---------------
@@ -8,7 +8,7 @@ Github Username: <USERNAME>
 ---------------
 ```
 
-#PARTICIPANTS ---------------------------------
+# PARTICIPANTS ---------------------------------
 
 ---------------
 Name: AAKASH KUMAR SAHOO
