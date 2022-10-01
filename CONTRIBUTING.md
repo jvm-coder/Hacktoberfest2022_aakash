@@ -2,7 +2,7 @@
 
 ```
 -----
-Name: <YOURNAME>
+Name: <YOURNAME><br>
 Institution/Company: <INSTITUTION_NAME>
 Github Username: <USERNAME>
 -----
@@ -12,6 +12,6 @@ Github Username: <USERNAME>
 
 ---
 Name: <YOURNAME><br>
-Institution/Company: <INSTITUTION_NAME>
-GithubUsername: <USERNAME>
+Institution/Company: <INSTITUTION_NAME><br>
+Github Username: <USERNAME><br>
 ---
