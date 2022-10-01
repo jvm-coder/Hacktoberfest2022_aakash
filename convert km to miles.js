@@ -1,10 +1,3 @@
-// taking kilometers input from the user
-const kilometers = prompt("Enter value in kilometers: ")
-
-// conversion factor
-const factor = 0.621371
-
-// calculate miles
-const miles = kilometers * factor
-
-console.log(`${kilometers} kilometers is equal to ${miles} miles.`);
+var kilometers = parseInt(prompt("Please enter kilometers:"));
+var miles = kilometers / 1.6;
+console.log(miles + " Miles");
