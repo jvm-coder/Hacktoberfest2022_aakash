@@ -1,6 +1,5 @@
 # Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
 ![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
-![thanks](https://media3.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=790b76112b125e648ae6ab2bedbba1b423e6bf3ece091269&rid=giphy.gif&ct=g)
 
 ## Contributors of `Hacktoberfest 2022`
 
@@ -77,3 +76,7 @@ then you will be remained with only 3 valid pull requests.
 If you fail to make 4 valid pull requests then you can't get schwags or t-shirts.
 '''
 ```
+
+<div align="center">
+  ![thanks](https://media3.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=790b76112b125e648ae6ab2bedbba1b423e6bf3ece091269&rid=giphy.gif&ct=g)
+</div>
