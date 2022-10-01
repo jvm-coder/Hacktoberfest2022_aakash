@@ -10,8 +10,8 @@ Github Username: <USERNAME>
 
 ### PARTICIPANTS 
 
------
+---
 Name: <YOURNAME>
 Institution/Company: <INSTITUTION_NAME>
 Github Username: <USERNAME>
------
+---
