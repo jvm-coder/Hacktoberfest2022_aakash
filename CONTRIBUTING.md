@@ -22,6 +22,16 @@ Institution/Company: srm institute of science and technology<br>
 Github Username: Akshitparmar<br>
 -----
 
+
+
+-----
+Name: Jonry Simbolon<br>
+Institution/Company: none/none<br>
+Github Username: jonrysimbolon<br>
+
+-----
+
+
 -----
 Name: Tanmoy Sengupta<br>
 Institution/Company: LTI<br>
