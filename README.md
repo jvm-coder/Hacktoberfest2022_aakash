@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/jvm-coder/Hacktoberfest2022_aakash/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jvm-coder/Hacktoberfest2022_jvm-coder" />
+  <img src="https://contrib.rocks/image?repo=jvm-coder/Hacktoberfest2022_aakash" />
 </a>
   
 </div>
