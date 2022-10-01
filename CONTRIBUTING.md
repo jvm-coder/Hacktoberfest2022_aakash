@@ -1,4 +1,4 @@
-## Copy the below template, replace the boiler plate data (date in < >) and commit.
+## Copy the below template, replace the boiler plate data (data in < >) and commit.
 
 ```
 -----
