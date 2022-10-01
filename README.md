@@ -24,7 +24,8 @@
  <a href="https://github.com/jvm-coder" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
 <a href="https://github.com/jvm-coder/Hacktoberfest2022_jvm-coder/pulls"><img src="https://img.shields.io/github/issues-pr/jvm-coder/Hacktoberfest2022_aakash" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/jvm-coder/Hacktoberfest2022_jvm-coder/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jvm-coder/Hacktoberfest2022_aakash?color=2b9348"></a>
+<a href="https://github.com/jvm-coder/Hacktoberfest2022_aakash/graphs/contributors">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jvm-coder/Hacktoberfest2022_aakash?color=2b9348"></a>
 <a href="https://github.com/jvm-coder/Hacktoberfest2022_aakash/blob/master/LICENSE"></a>
 
 </div>
