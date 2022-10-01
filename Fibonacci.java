@@ -1,4 +1,3 @@
-package com.shubham;
 
 import java.util.Scanner;
 
