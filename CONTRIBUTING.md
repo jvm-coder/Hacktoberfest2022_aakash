@@ -15,3 +15,9 @@ Name: AAKASH KUMAR SAHOO<br>
 Institution/Company: GALGOTIAS UNIVERSITY<br>
 Github Username: jvm-coder<br>
 ---
+
+-----
+Name: Akshit parmar<br>
+Institution/Company: srm institute of science and technology<br>
+Github Username: Akshitparmar<br>
+-----
