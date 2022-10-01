@@ -11,7 +11,7 @@ Github Username: <USERNAME>
 ### PARTICIPANTS 
 
 ---
-Name: <YOURNAME>
+Name: <YOURNAME><br>
 Institution/Company: <INSTITUTION_NAME>
 GithubUsername: <USERNAME>
 ---
