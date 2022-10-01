@@ -79,6 +79,4 @@ If you fail to make 4 valid pull requests then you can't get schwags or t-shirts
 '''
 ```
 
-<div align="center">
 ![thanks](https://monophy.com/media/elDBlnjTIq4eYxNgRg/monophy.gif)
-</div>
