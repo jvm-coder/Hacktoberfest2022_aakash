@@ -49,7 +49,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 ###EX.-
 ```
 ---
-JAVA/<filename>.java
+Java/<filename>.java
 ---
 ```
 
@@ -63,11 +63,9 @@ github: <USERNAME>
 ---
 ```
 
-## STEP-2. Add some content to the `CONTRIBUTING.md` file in  the repository.
+## STEP-3. Wait for Pull Request to merge
 
-## STEP-4. Wait for Pull Request to merge
-
-## STEP-5. Celebrate - you've done your first pull request!!
+## STEP-4. Celebrate - you've done your first pull request!!
 
 ```
 '''
