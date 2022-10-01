@@ -76,4 +76,4 @@ then you will be remained with only 3 valid pull requests.
 If you fail to make 4 valid pull requests then you can't get schwags or t-shirts.
 '''
 ```
-![thanks](https://media3.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=790b76112b125e648ae6ab2bedbba1b423e6bf3ece091269&rid=giphy.gif&ct=g)
+![thanks](https://monophy.com/media/elDBlnjTIq4eYxNgRg/monophy.gif)
