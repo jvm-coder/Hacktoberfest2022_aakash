@@ -29,7 +29,7 @@
 
 </div>
 
-[!linebreak](https://miro.medium.com/max/828/1*oVwk66fBRCni-n38ZmgOPw.gif)
+![image](https://miro.medium.com/max/828/1*oVwk66fBRCni-n38ZmgOPw.gif)
 
 ## Instructions-
 
