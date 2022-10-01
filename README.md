@@ -34,29 +34,26 @@
 - Fork this Repository to your GITHUB using the button at the top
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile data in `content/participant/`
-- Make contributions to the `content` foldercontributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
+- Add your profile data in `CONTRIBUTING.md`
+- Make contributions to the `Specific Domain` folder, contributions done to the `Correct` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
 - Star this repository
-
-NOTE : Contributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
 
 # How to make your first Pull Request
 ### Please note - `Pull Requests` of only those `contributors` will be `Merged` who will follow all the below mentioned steps
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
-## STEP-1. Add your profile information
-
-Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. 
-Ex.
-
+## STEP-1. Make your contribution to `Specific Domain Folder`, if domain named `FOLDER` is not present then `ADD` the folder and complete your contribution.
+###EX.-
 ```
-content/participant/<YOUR-USERNAME>.md/
+---
+JAVA/<filename>.java
+---
 ```
 
-## STEP-2. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+## STEP-2. Copy the next template into your 'CONTRIBUTING.md' file, delete the boilerplate data and fill the information with yours.
 
 ```
 ---
@@ -66,7 +63,7 @@ github: <USERNAME>
 ---
 ```
 
-## STEP-3. Add some content to the `CONTRIBUTING.md` file in  the repository.
+## STEP-2. Add some content to the `CONTRIBUTING.md` file in  the repository.
 
 ## STEP-4. Wait for Pull Request to merge
 
