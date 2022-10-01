@@ -10,9 +10,8 @@ Github Username: <USERNAME>
 
 # PARTICIPANTS 
 
------
-Name: AAKASH KUMAR SAHOO
-Institution/Company: GALGOTIAS UNIVERSITY
 
-Github Username: jvm-coder
+Name: <YOURNAME>
+Institution/Company: <INSTITUTION_NAME>
+Github Username: <USERNAME>
 -----
