@@ -3,15 +3,15 @@
 ```
 -----
 Name: <YOURNAME><br>
-Institution/Company: <INSTITUTION_NAME>
-Github Username: <USERNAME>
+Institution/Company: <INSTITUTION_NAME><br>
+Github Username: <USERNAME><br>
 -----
 ```
 
 ### PARTICIPANTS 
 
 ---
-Name: <YOURNAME><br>
-Institution/Company: <INSTITUTION_NAME><br>
-Github Username: <USERNAME><br>
+Name: AAKASH KUMAR SAHOO<br>
+Institution/Company: GALGOTIAS UNIVERSITY<br>
+Github Username: jvm-coder<br>
 ---
