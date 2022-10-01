@@ -72,7 +72,7 @@ github: <USERNAME>
 
 ```
 '''
-You are always advised to make more then 4 pull request
+You are always advised to make more than 4 pull request
 Suppose, you have made only 4 pull request to different projects
 but due to some problem one project gets excluded from hackoctoberfest event then your pull request will not be counted towards HACKTOBERFEST contributions and 
 then you will be remained with only 3 valid pull requests.
