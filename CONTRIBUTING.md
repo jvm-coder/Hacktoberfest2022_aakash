@@ -13,5 +13,5 @@ Github Username: <USERNAME>
 ---
 Name: <YOURNAME>
 Institution/Company: <INSTITUTION_NAME>
-Github Username: <USERNAME>
+GithubUsername: <USERNAME>
 ---
