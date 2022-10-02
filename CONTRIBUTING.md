@@ -78,4 +78,10 @@ Institution/Company: J.K. Institute of Applied Physics and Technology <br>
 Github Username: Nick-h4ck3r <br>
 -----
 
+-----
+Name: Chirag Chandnani<br>
+Institution/Company: Vellore Institute of Technology<br>
+Github Username: chiragchandnani10<br>
+-----
+
 
