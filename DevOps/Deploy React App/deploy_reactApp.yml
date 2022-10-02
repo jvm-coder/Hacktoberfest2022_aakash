@@ -1,0 +1,16 @@
+---
+- hosts: dockerhost 
+
+  tasks:
+
+  - name: Remove docker running / stopped container
+    command: docker rm -f reactapp
+    ignore_errors: yes
+
+  - name: Remove docker pulled image
+    command: docker rmi 07shree/reactapp:latest
+    ignore_errors: yes
+    
+  - name: Create container using 07shree/reactapp:latest
+    command: docker run -d --name reactapp -p 3000:3000 07shree/reactapp:latest
+
