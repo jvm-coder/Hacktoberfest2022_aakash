@@ -37,3 +37,12 @@ Name: Tanmoy Sengupta<br>
 Institution/Company: LTI<br>
 GitHub Username: TSG405<br>
 -----
+
+
+-----
+Name: Hitarth Raval <br>
+Institution/Company: Sankalchand Patel College of Engineering <br>
+Github Username: hitarthraval <br>
+-----
+
+
