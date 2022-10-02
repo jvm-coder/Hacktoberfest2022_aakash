@@ -78,4 +78,9 @@ Institution/Company: J.K. Institute of Applied Physics and Technology <br>
 Github Username: Nick-h4ck3r <br>
 -----
 
+-----
+Name: Shubham Burad<br>
+Institution/Company: <Dr.D.Y.Patil institute of technology><br>
+Github Username: shubhamburad<br>
+-----
 
