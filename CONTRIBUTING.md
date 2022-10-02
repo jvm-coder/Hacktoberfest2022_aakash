@@ -87,7 +87,7 @@ Github Username: chiragchandnani10<br>
 
 -----
 Name: Shubham Burad<br>
-Institution/Company: <Dr.D.Y.Patil institute of technology><br>
+Institution/Company: Dr.D.Y.Patil institute of technology<br>
 Github Username: shubhamburad<br>
 -----
 
