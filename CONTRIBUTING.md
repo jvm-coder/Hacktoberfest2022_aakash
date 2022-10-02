@@ -53,8 +53,15 @@ Github Username: sljtheultima <br>
 
 
 -----
+Name: VANSHAM RASTOGI<br>
+Institution/Company: GALGOTIAS UNIVERSITY<br>
+Github Username: Mystery-2-Dev<br>
+-----
+
+-----
 Name: Nikhil Kadam <br>
 Institution/Company: J.K. Institute of Applied Physics and Technology <br>
 Github Username: Nick-h4ck3r <br>
 -----
+
 
