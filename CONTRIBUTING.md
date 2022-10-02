@@ -90,5 +90,15 @@ Name: Shubham Burad<br>
 Institution/Company: Dr.D.Y.Patil institute of technology<br>
 Github Username: shubhamburad<br>
 -----
+-----
+Name: Dhruv Patidar<br>
+Institution/Company: SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE<br>
+Github Username: dhruvpatidar359<br>
+-----
 
+---
+Name: Shree<br>
+Institution/Company: DKTE Textile & Engineering Institute<br>
+Github Username: SHrEE-7 <br>
+---
 
