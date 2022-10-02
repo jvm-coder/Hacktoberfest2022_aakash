@@ -39,6 +39,13 @@ GitHub Username: TSG405<br>
 
 
 -----
+Name: Jeff Blankenship<br>
+Institution/Company: CCSU<br>
+Github Username: JeffBship<br>
+-----
+
+
+-----
 Name: Hitarth Raval <br>
 Institution/Company: Sankalchand Patel College of Engineering <br>
 Github Username: hitarthraval <br>
