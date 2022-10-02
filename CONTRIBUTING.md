@@ -91,4 +91,9 @@ Institution/Company: Dr.D.Y.Patil institute of technology<br>
 Github Username: shubhamburad<br>
 -----
 
+---
+Name: Shree<br>
+Institution/Company: DKTE Textile & Engineering Institute<br>
+Github Username: SHrEE-7 <br>
+---
 
