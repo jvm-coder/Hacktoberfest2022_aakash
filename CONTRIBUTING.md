@@ -79,9 +79,16 @@ Github Username: Nick-h4ck3r <br>
 -----
 
 -----
+
 Name: Chirag Chandnani<br>
 Institution/Company: Vellore Institute of Technology<br>
 Github Username: chiragchandnani10<br>
+-----
+
+-----
+Name: Shubham Burad<br>
+Institution/Company: <Dr.D.Y.Patil institute of technology><br>
+Github Username: shubhamburad<br>
 -----
 
 
