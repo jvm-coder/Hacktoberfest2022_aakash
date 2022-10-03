@@ -125,3 +125,9 @@ Name: Rifqi<br>
 Institution/Company: BPS<br>
 Github Username: rifqij<br>
 -----
+
+-----
+Name: Anushka Raj<br>
+Institution/Company: JECRC University<br>
+Github Username: Anushka-codergirl<br>
+-----
