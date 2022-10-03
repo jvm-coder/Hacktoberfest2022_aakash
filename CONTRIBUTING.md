@@ -97,23 +97,33 @@ Name: Shubham Burad<br>
 Institution/Company: Dr.D.Y.Patil institute of technology<br>
 Github Username: shubhamburad<br>
 -----
+
+
 -----
 Name: Dhruv Patidar<br>
 Institution/Company: SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE<br>
 Github Username: dhruvpatidar359<br>
 -----
 
----
+
+-----
 Name: Shree<br>
 Institution/Company: DKTE Textile & Engineering Institute<br>
 Github Username: SHrEE-7 <br>
----
+-----
 
----
+
+-----
 Name: Charumathi P<br>
 Institution/Company: Sri Sivasubramaniya Nadar College of Engineering<br>
 Github Username: charu210703 <br>
 ---
+
+---
+Name: Rifqi<br>
+Institution/Company: BPS<br>
+Github Username: rifqij<br>
+----
 
 ---
 Name: Sanchit Bajaj<br>
