@@ -114,3 +114,9 @@ Name: Charumathi P<br>
 Institution/Company: Sri Sivasubramaniya Nadar College of Engineering<br>
 Github Username: charu210703 <br>
 ---
+
+---
+Name: Rifqi<br>
+Institution/Company: BPS<br>
+Github Username: rifqij<br>
+---
