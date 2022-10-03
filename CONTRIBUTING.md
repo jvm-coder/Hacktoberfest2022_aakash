@@ -114,3 +114,9 @@ Name: Charumathi P<br>
 Institution/Company: Sri Sivasubramaniya Nadar College of Engineering<br>
 Github Username: charu210703 <br>
 ---
+
+---
+Name: Sanchit Bajaj<br>
+Institution/Company: Manav Rachna University<br>
+Github Username: sanchitbajaj02<br>
+---
