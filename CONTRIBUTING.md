@@ -117,17 +117,34 @@ Github Username: SHrEE-7 <br>
 Name: Charumathi P<br>
 Institution/Company: Sri Sivasubramaniya Nadar College of Engineering<br>
 Github Username: charu210703 <br>
------
+---
 
 
------
+---
 Name: Rifqi<br>
 Institution/Company: BPS<br>
 Github Username: rifqij<br>
------
+
+----
+
+---
+Name: Sanchit Bajaj<br>
+Institution/Company: Manav Rachna University<br>
+Github Username: sanchitbajaj02<br>
+---
+
+
 
 -----
+
 Name: VAIBHAV BHARDWAJ<br>
 Institution/Company: BPIT<br>
 Github Username: vaibhavx42<br>
 -----
+
+Name: Anushka Raj<br>
+Institution/Company: JECRC University<br>
+Github Username: Anushka-codergirl<br>
+-----
+
+
