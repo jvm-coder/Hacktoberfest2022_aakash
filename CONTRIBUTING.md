@@ -123,6 +123,7 @@ Github Username: charu210703 <br>
 Name: Rifqi<br>
 Institution/Company: BPS<br>
 Github Username: rifqij<br>
+
 ----
 
 ---
@@ -130,3 +131,12 @@ Name: Sanchit Bajaj<br>
 Institution/Company: Manav Rachna University<br>
 Github Username: sanchitbajaj02<br>
 ---
+
+-----
+
+-----
+Name: Anushka Raj<br>
+Institution/Company: JECRC University<br>
+Github Username: Anushka-codergirl<br>
+-----
+
