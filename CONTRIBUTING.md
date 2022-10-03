@@ -125,3 +125,9 @@ Name: Rifqi<br>
 Institution/Company: BPS<br>
 Github Username: rifqij<br>
 -----
+
+-----
+Name: VAIBHAV BHARDWAJ<br>
+Institution/Company: BPIT<br>
+Github Username: vaibhavx42<br>
+-----
