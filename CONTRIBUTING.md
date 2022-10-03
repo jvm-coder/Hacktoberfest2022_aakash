@@ -46,6 +46,13 @@ Github Username: JeffBship<br>
 
 
 -----
+Name: Tautvydas Karvelis<br>
+Institution/Company: Telesoftas<br>
+Github Username: Tautve<br>
+-----
+
+
+-----
 Name: Hitarth Raval <br>
 Institution/Company: Sankalchand Patel College of Engineering <br>
 Github Username: hitarthraval <br>
@@ -95,4 +102,13 @@ Name: Dhruv Patidar<br>
 Institution/Company: SHRI G. S. INSTITUTE OF TECHNOLOGY & SCIENCE, INDORE<br>
 Github Username: dhruvpatidar359<br>
 -----
-
+-----
+Name: Shree<br>
+Institution/Company: DKTE Textile & Engineering Institute<br>
+Github Username: SHrEE-7 <br>
+-----
+-----
+Name: Charumathi P<br>
+Institution/Company: Sri Sivasubramaniya Nadar College of Engineering<br>
+Github Username: charu210703 <br>
+-----

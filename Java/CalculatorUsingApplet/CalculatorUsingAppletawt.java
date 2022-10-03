@@ -129,7 +129,11 @@ class CalculatorUsingAppletawt extends Applet implements ActionListener {
 
 }
 /**------------------ Running the Program----------------------
- * To run this , there are two methods
+
+
+
+ * To the this , there are two methods
+
  * First of all use appletviewer
  * Second use html file to view it .
  * For more refer youtube for complete details
