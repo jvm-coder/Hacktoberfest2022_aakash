@@ -16,6 +16,13 @@ Institution/Company: GALGOTIAS UNIVERSITY<br>
 Github Username: jvm-coder<br>
 ---
 
+
+---
+Name: ADITH<br>
+Institution/Company: SRINIVAS UNIVERSITY<br>
+Github Username: adithziva<br>
+---
+
 -----
 Name: Akshit parmar<br>
 Institution/Company: srm institute of science and technology<br>
