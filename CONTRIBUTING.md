@@ -16,6 +16,11 @@ Institution/Company: GALGOTIAS UNIVERSITY<br>
 Github Username: jvm-coder<br>
 ---
 
+-----
+Name: SHARAYU MAHENDRA BANAIT<br>
+Institution/Company: GeeksForGeeks <br>
+Github Username: Sharayu1071<br>
+-----
 
 ---
 Name: ADITH<br>
