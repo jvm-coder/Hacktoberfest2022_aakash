@@ -162,3 +162,10 @@ Name: Bhavesh Krishan Garg<br>
 Institution/Company: Manav Rachna University<br>
 Github Username: bhaveshgarg2000<br>
 -----
+
+-----
+
+Name: Shivam Kumar Jha<br>
+Institution/Company: University School Of Automation and Robotics<br>
+Github Username:s-k-jha<br>
+-----
