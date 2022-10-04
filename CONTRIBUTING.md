@@ -179,3 +179,9 @@ Name: Sahil Shriwardhankar <br>
 Institution/Company: DBATU <br>
 Github Username: notsointresting <br>
 -----
+-----
+Name: Manu Pandey <br>
+Institution/Company: JECRC University <br>
+Github Username: https://github.com/ManuFake <br>
+-----
+
