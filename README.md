@@ -37,7 +37,6 @@
 - Fork this Repository to your GITHUB using the button at the top
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile data in `CONTRIBUTING.md`
 - Make contributions to the `Specific Domain` folder, contributions done to the `Correct` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
