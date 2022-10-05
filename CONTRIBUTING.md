@@ -189,3 +189,9 @@ Name: Aniket Mondal <br>
 Institution/Company: SXC <br>
 Github Username: offi-ani <br>
 -----
+
+-----
+Name: Vishal<br>
+Institution/Company: delhi institute of tool engineering<br>
+Github Username: https://github.com/vishalrock1912<br>
+-----
