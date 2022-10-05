@@ -184,4 +184,8 @@ Name: Manu Pandey <br>
 Institution/Company: JECRC University <br>
 Github Username: https://github.com/ManuFake <br>
 -----
-
+---
+Name: Muhammmad Zidan <br>
+Institution/company: UIN Maulana Malik Ibrahim Malang <br>
+Github: https://github.com/Funikz <br>
+---
