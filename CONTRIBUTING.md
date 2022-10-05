@@ -184,4 +184,8 @@ Name: Manu Pandey <br>
 Institution/Company: JECRC University <br>
 Github Username: https://github.com/ManuFake <br>
 -----
-
+-----
+Name: Aniket Mondal <br>
+Institution/Company: SXC <br>
+Github Username: offi-ani <br>
+-----
