@@ -136,7 +136,7 @@ Github Username: charu210703 <br>
 Name: Rifqi<br>
 Institution/Company: BPS<br>
 Github Username: rifqij<br>
-----
+---
 
 
 ---
@@ -162,41 +162,58 @@ Github Username: Anushka-codergirl<br>
 
 
 -----
-
 Name: Bhavesh Krishan Garg<br>
 Institution/Company: Manav Rachna University<br>
 Github Username: bhaveshgarg2000<br>
 -----
 
------
 
+-----
 Name: Shivam Kumar Jha<br>
 Institution/Company: University School Of Automation and Robotics<br>
 Github Username:s-k-jha<br>
 -----
+
+
 -----
 Name: Sahil Shriwardhankar <br>
 Institution/Company: DBATU <br>
 Github Username: notsointresting <br>
 -----
+
+
 -----
 Name: Manu Pandey <br>
 Institution/Company: JECRC University <br>
 Github Username: https://github.com/ManuFake <br>
 -----
+
+
 -----
 Name: Aniket Mondal <br>
 Institution/Company: SXC <br>
 Github Username: offi-ani <br>
 -----
 
+
 -----
 Name: Vishal<br>
 Institution/Company: delhi institute of tool engineering<br>
 Github Username: https://github.com/vishalrock1912<br>
 -----
+
+
 -----
 Name:Shivam Chopra<br>
 Institution: IISERB<br>
 Github Username: LeehZen<br>
 -----
+
+
+-----
+Name: Badri <br>
+Institution/Company: Sri Sairam Engineering College <br>
+Github Username: litebrick204<br>
+-----
+
+
