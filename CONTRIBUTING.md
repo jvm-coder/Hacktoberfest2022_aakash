@@ -195,3 +195,8 @@ Name: Vishal<br>
 Institution/Company: delhi institute of tool engineering<br>
 Github Username: https://github.com/vishalrock1912<br>
 -----
+-----
+Name:Shivam Chopra<br>
+Institution: IISERB<br>
+Github Username: LeehZen<br>
+-----
