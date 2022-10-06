@@ -195,3 +195,9 @@ Name: Vishal<br>
 Institution/Company: delhi institute of tool engineering<br>
 Github Username: https://github.com/vishalrock1912<br>
 -----
+
+-----
+Name: Badri <br>
+Institution/Company: Sri Sairam Engineering College <br>
+Github Username: litebrick204
+-----
