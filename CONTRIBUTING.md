@@ -229,3 +229,10 @@ Name: Harshit Mittal <br>
 Institution/Company: Netaji Subhas University of Technology <br>
 Github Username: HarshitMittal01<br>
 -----
+
+
+-----
+Name: Rakshit Gupta <br>
+Institution/Company: Shri Ramswaroop Memorial College of Engineering & Management <br>
+Github Username: rakshitgupta23<br>
+-----
