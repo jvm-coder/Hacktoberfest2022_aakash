@@ -231,8 +231,27 @@ Github Username: HarshitMittal01<br>
 -----
 
 
+
 -----
 Name: Rakshit Gupta <br>
 Institution/Company: Shri Ramswaroop Memorial College of Engineering & Management <br>
 Github Username: rakshitgupta23<br>
 -----
+
+
+-----
+Name: Mahima Chauhan <br>
+Institution/Company: AIT,Pune <br>
+Github Username: milostivyy<br>
+-----
+
+
+
+
+-----
+Name: Nikhil Shrivastava <br>
+Institution/Company: Lovely Professional University <br>
+Github Username: NikhilShrivastava<br>
+-----
+
+
