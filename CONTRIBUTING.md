@@ -235,3 +235,9 @@ Name: Nikhil Shrivastava <br>
 Institution/Company: Lovely Professional University <br>
 Github Username: NikhilShrivastava<br>
 -----
+
+-----
+Name: Krunal Karena<br>
+Institution/Company: SVNIT<br>
+Github Username: Krunal-Karena<br>
+-----
