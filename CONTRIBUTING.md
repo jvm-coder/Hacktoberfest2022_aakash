@@ -231,10 +231,19 @@ Github Username: HarshitMittal01<br>
 -----
 
 
+
 -----
 Name: Mahima Chauhan <br>
 Institution/Company: AIT,Pune <br>
 Github Username: milostivyy<br>
 -----
 
+
+
+
+-----
+Name: Nikhil Shrivastava <br>
+Institution/Company: Lovely Professional University <br>
+Github Username: NikhilShrivastava<br>
+-----
 
