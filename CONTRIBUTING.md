@@ -230,6 +230,11 @@ Institution/Company: Netaji Subhas University of Technology <br>
 Github Username: HarshitMittal01<br>
 -----
 
+Name: Ankit Goyal<br>
+Institution/Company: JCD Vidyapeeth College of Engineering><br>
+Github Username: Ankit9126<br>
+
+
 
 
 -----
@@ -244,6 +249,7 @@ Name: Mahima Chauhan <br>
 Institution/Company: AIT,Pune <br>
 Github Username: milostivyy<br>
 -----
+
 
 
 
