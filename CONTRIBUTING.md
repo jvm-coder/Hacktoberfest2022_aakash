@@ -259,7 +259,10 @@ Name: Nikhil Shrivastava <br>
 Institution/Company: Lovely Professional University <br>
 Github Username: NikhilShrivastava<br>
 -----
-
+Name: <Manav Muthanna><br>
+Institution/Company: <VIT Vellore><br>
+Github Username: <ManavMuthanna><br>
+-----
 
 -----
 Name: Krunal Karena<br>
