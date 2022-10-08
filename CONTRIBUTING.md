@@ -262,10 +262,18 @@ Github Username: NikhilShrivastava<br>
 
 
 -----
+Name: Krunal Karena<br>
+Institution/Company: SVNIT<br>
+Github Username: Krunal-Karena<br>
+-----
+=======
+
+-----
 Name: Dan Brad<br>
 Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
+
 
 
 
