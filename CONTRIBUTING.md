@@ -279,6 +279,12 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+-----
+Name: Manasi Patil<br>
+Institution/Company: Accenture<br>
+Github Username: itsmnsi<br>
+-----
+
 
 
   
