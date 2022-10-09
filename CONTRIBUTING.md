@@ -230,11 +230,12 @@ Institution/Company: Netaji Subhas University of Technology <br>
 Github Username: HarshitMittal01<br>
 -----
 
+
+-----
 Name: Ankit Goyal<br>
 Institution/Company: JCD Vidyapeeth College of Engineering><br>
 Github Username: Ankit9126<br>
-
-
+-----
 
 
 -----
@@ -251,26 +252,27 @@ Github Username: milostivyy<br>
 -----
 
 
-
-
-
 -----
 Name: Nikhil Shrivastava <br>
 Institution/Company: Lovely Professional University <br>
 Github Username: NikhilShrivastava<br>
 -----
-Name: <Manav Muthanna><br>
-Institution/Company: <VIT Vellore><br>
-Github Username: <ManavMuthanna><br>
+
+
+-----
+Name: Manav Muthanna<br>
+Institution/Company: VIT Vellore<br>
+Github Username: ManavMuthanna<br>
 -----
 
+  
 -----
 Name: Krunal Karena<br>
 Institution/Company: SVNIT<br>
 Github Username: Krunal-Karena<br>
 -----
-=======
 
+  
 -----
 Name: Dan Brad<br>
 Institution/Company: Maker<br>
@@ -279,4 +281,5 @@ Github Username: Denschiro<br>
 
 
 
-
+  
+  
