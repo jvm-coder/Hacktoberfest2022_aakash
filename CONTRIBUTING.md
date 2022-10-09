@@ -250,10 +250,6 @@ Institution/Company: AIT,Pune <br>
 Github Username: milostivyy<br>
 -----
 
-
-
-
-
 -----
 Name: Nikhil Shrivastava <br>
 Institution/Company: Lovely Professional University <br>
@@ -269,7 +265,6 @@ Name: Krunal Karena<br>
 Institution/Company: SVNIT<br>
 Github Username: Krunal-Karena<br>
 -----
-=======
 
 -----
 Name: Dan Brad<br>
@@ -277,6 +272,8 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+Name: Harshit Mehra <br>
+Institution/Company: Government Engineering College, Jabalpur <br>
+Github Username: djharshit <br>
 
-
-
+-----
