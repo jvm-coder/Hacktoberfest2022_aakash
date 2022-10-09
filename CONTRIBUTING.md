@@ -279,7 +279,11 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
-
+---
+Name: RAJAT RAI<br>
+Institution/Company: itDay! INDIA PVT LTD<br>
+Github Username: rajatrai30<br>
+---
 
   
   
