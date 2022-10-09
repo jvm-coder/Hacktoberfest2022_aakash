@@ -279,6 +279,11 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+-----
+Name: Pawan Khatrid<br>
+Institution/Company: MUET<br>
+Github Username: Khaatri7968<br>
+-----
 
 
   
