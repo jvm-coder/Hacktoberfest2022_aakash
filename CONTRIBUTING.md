@@ -285,6 +285,14 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+
+-----
+Name: Harshit Mehra <br>
+Institution/Company: Government Engineering College, Jabalpur <br>
+Github Username: djharshit <br>
+-----
+
+
 -----
 Name: Adarsh Saurabh<br>
 Institution/Company: GGV<br>
@@ -311,4 +319,4 @@ Institution/Company: Chitkara University<br>
 Github Username: rishabhkemni<br>
 -----
   
-  
+
