@@ -17,6 +17,12 @@ Github Username: jvm-coder<br>
 ---
 
 -----
+Name: Krish Chopra<br>
+Institution/Company: Bhilai Institute of Technology, Durg<br>
+Github Username: KrishChopra22<br>
+-----
+
+-----
 Name: SHARAYU MAHENDRA BANAIT<br>
 Institution/Company: GeeksForGeeks <br>
 Github Username: Sharayu1071<br>
@@ -230,11 +236,12 @@ Institution/Company: Netaji Subhas University of Technology <br>
 Github Username: HarshitMittal01<br>
 -----
 
+
+-----
 Name: Ankit Goyal<br>
 Institution/Company: JCD Vidyapeeth College of Engineering><br>
 Github Username: Ankit9126<br>
-
-
+-----
 
 
 -----
@@ -250,30 +257,66 @@ Institution/Company: AIT,Pune <br>
 Github Username: milostivyy<br>
 -----
 
+
 -----
 Name: Nikhil Shrivastava <br>
 Institution/Company: Lovely Professional University <br>
 Github Username: NikhilShrivastava<br>
 -----
-Name: <Manav Muthanna><br>
-Institution/Company: <VIT Vellore><br>
-Github Username: <ManavMuthanna><br>
+
+
+-----
+Name: Manav Muthanna<br>
+Institution/Company: VIT Vellore<br>
+Github Username: ManavMuthanna<br>
 -----
 
+  
 -----
 Name: Krunal Karena<br>
 Institution/Company: SVNIT<br>
 Github Username: Krunal-Karena<br>
 -----
 
+  
 -----
 Name: Dan Brad<br>
 Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+
+-----
 Name: Harshit Mehra <br>
 Institution/Company: Government Engineering College, Jabalpur <br>
 Github Username: djharshit <br>
+-----
+
 
 -----
+Name: Adarsh Saurabh<br>
+Institution/Company: GGV<br>
+Github Username: Adarsh-Saurabh<br>
+-----
+
+-----
+Name: Harsh Raj Jha<br>
+Institution/Company: Guru Ghasidas Vishwavidyalaya<br>
+Github Username: Hrjha30<br>
+-----
+
+
+---
+Name: RAJAT RAI<br>
+Institution/Company: itDay! INDIA PVT LTD<br>
+Github Username: rajatrai30<br>
+---
+
+
+-----
+Name: Rishabh Kemni<br>
+Institution/Company: Chitkara University<br>
+Github Username: rishabhkemni<br>
+-----
+  
+
