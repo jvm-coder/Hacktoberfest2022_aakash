@@ -285,11 +285,18 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+
+---
+Name: RAJAT RAI<br>
+Institution/Company: itDay! INDIA PVT LTD<br>
+Github Username: rajatrai30<br>
+---
+
+
 -----
 Name: Rishabh Kemni<br>
 Institution/Company: Chitkara University<br>
 Github Username: rishabhkemni<br>
 -----
-
   
   
