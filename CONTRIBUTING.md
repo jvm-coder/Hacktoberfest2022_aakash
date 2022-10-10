@@ -279,7 +279,11 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
-
+-----
+Name: Rishabh Kemni<br>
+Institution/Company: Chitkara University<br>
+Github Username: rishabhkemni<br>
+-----
 
   
   
