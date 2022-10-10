@@ -1,20 +1,15 @@
-## Copy the below template, replace the boiler plate data (data in < >) and commit.
-
-```
 -----
-Name: <YOURNAME><br>
-Institution/Company: <INSTITUTION_NAME><br>
-Github Username: <USERNAME><br>
+name: Jamie<br>
+institution/company: N/A<br>
+github: Westsi<br>
 -----
-```
 
-### PARTICIPANTS 
 
----
+-----
 Name: AAKASH KUMAR SAHOO<br>
 Institution/Company: GALGOTIAS UNIVERSITY<br>
 Github Username: jvm-coder<br>
----
+-----
 
 -----
 Name: Krish Chopra<br>
@@ -22,17 +17,19 @@ Institution/Company: Bhilai Institute of Technology, Durg<br>
 Github Username: KrishChopra22<br>
 -----
 
+
 -----
 Name: SHARAYU MAHENDRA BANAIT<br>
 Institution/Company: GeeksForGeeks <br>
 Github Username: Sharayu1071<br>
 -----
 
----
+
+-----
 Name: ADITH<br>
 Institution/Company: SRINIVAS UNIVERSITY<br>
 Github Username: adithziva<br>
----
+-----
 
 -----
 Name: Akshit parmar<br>
@@ -325,4 +322,5 @@ Name:Samruddhi Gulhane<br>
 Institution/Company: Government Polytechnic Yavatmal<br>
 Github Username: Samruddhiiii<br>
 -----
+
 
