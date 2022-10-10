@@ -17,6 +17,12 @@ Github Username: jvm-coder<br>
 ---
 
 -----
+Name: Krish Chopra<br>
+Institution/Company: Bhilai Institute of Technology, Durg<br>
+Github Username: KrishChopra22<br>
+-----
+
+-----
 Name: SHARAYU MAHENDRA BANAIT<br>
 Institution/Company: GeeksForGeeks <br>
 Github Username: Sharayu1071<br>
@@ -279,11 +285,18 @@ Institution/Company: Maker<br>
 Github Username: Denschiro<br>
 -----
 
+
 ---
 Name: RAJAT RAI<br>
 Institution/Company: itDay! INDIA PVT LTD<br>
 Github Username: rajatrai30<br>
 ---
 
+
+-----
+Name: Rishabh Kemni<br>
+Institution/Company: Chitkara University<br>
+Github Username: rishabhkemni<br>
+-----
   
   
