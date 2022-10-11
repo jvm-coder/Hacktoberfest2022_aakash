@@ -324,3 +324,9 @@ Github Username: Samruddhiiii<br>
 -----
 
 
+---
+name: Yash Indane<br>
+institution/company: Shri Ramdeobaba College of Engineering<br>
+Github Username: YashIndane<br>
+---
+
