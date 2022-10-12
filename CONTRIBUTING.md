@@ -357,3 +357,13 @@ Name:Abhishek Sharma<br>
 Institution/Company: Prabhu Dayal Memorial University<br>
 Github Username: https://github.com/Abhisharma85<br>
 -----
+
+
+---
+name: Vijay Adhikari<br>
+institution/company: BBDITM <br>
+github: 17vijay2002<br>
+---
+
+
+-----
