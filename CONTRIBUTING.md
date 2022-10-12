@@ -344,8 +344,22 @@ institution/company: Shri Ramdeobaba College of Engineering<br>
 Github Username: YashIndane<br>
 ---
 
+
 ---
-name: Athul Joy <br>
-institution/company: Lightrains Technolabs Pvt Ltd <br>
+name: Tayyab Hussain<br>
+institution/company: NED university of Engineering and Technology<br>
+github: TayyabHussain03<br>
+---
+
+
+-----
+Name:Abhishek Sharma<br>
+Institution/Company: Prabhu Dayal Memorial University<br>
+Github Username: https://github.com/Abhisharma85<br>
+-----
+
+-----
+Name: Athul Joy <br>
+Institution/Company: Lightrains Technolabs Pvt Ltd <br>
 Github Username: iathul<br>
----
+-----
