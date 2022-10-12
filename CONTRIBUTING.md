@@ -344,3 +344,8 @@ institution/company: Shri Ramdeobaba College of Engineering<br>
 Github Username: YashIndane<br>
 ---
 
+---
+name: Stroganov Kirill<br>
+institution/company: Russian Standard Bank<br>
+Github Username: kiraplenkin<br>
+---
