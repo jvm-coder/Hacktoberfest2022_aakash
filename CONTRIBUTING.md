@@ -344,3 +344,9 @@ institution/company: Shri Ramdeobaba College of Engineering<br>
 Github Username: YashIndane<br>
 ---
 
+---
+name: Tayyab Hussain<br>
+institution/company: NED university of Engineering and Technology<br>
+github: TayyabHussain03<br>
+---
+
