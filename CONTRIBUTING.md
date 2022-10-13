@@ -102,11 +102,13 @@ Institution/Company: GALGOTIAS UNIVERSITY<br>
 Github Username: Mystery-2-Dev<br>
 -----
 
+
 -----
 Name: Nikhil Kadam <br>
 Institution/Company: J.K. Institute of Applied Physics and Technology <br>
 Github Username: Nick-h4ck3r <br>
 -----
+
 
 -----
 
@@ -114,6 +116,7 @@ Name: Chirag Chandnani<br>
 Institution/Company: Vellore Institute of Technology<br>
 Github Username: chiragchandnani10<br>
 -----
+
 
 -----
 Name: Shubham Burad<br>
@@ -276,14 +279,14 @@ Institution/Company: VIT Vellore<br>
 Github Username: ManavMuthanna<br>
 -----
 
-  
+
 -----
 Name: Krunal Karena<br>
 Institution/Company: SVNIT<br>
 Github Username: Krunal-Karena<br>
 -----
 
-  
+
 -----
 Name: Dan Brad<br>
 Institution/Company: Maker<br>
@@ -304,6 +307,7 @@ Institution/Company: GGV<br>
 Github Username: Adarsh-Saurabh<br>
 -----
 
+
 -----
 Name: Harsh Raj Jha<br>
 Institution/Company: Guru Ghasidas Vishwavidyalaya<br>
@@ -323,16 +327,16 @@ Name: Rishabh Kemni<br>
 Institution/Company: Chitkara University<br>
 Github Username: rishabhkemni<br>
 -----
- 
- 
+
+
  -----
 Name:Samruddhi Gulhane<br>
 Institution/Company: Government Polytechnic Yavatmal<br>
 Github Username: Samruddhiiii<br>
 -----
- 
- 
- -----
+
+
+-----
 Name:SONALI SINGH<br>
 Institution/Company: ARMY INSTITUTE OF TECHNOLOGY<br>
 Github Username: Curiousona<br>
@@ -344,8 +348,40 @@ institution/company: Shri Ramdeobaba College of Engineering<br>
 Github Username: YashIndane<br>
 ---
 
+
 ---
 name: Stroganov Kirill<br>
 institution/company: Russian Standard Bank<br>
 Github Username: kiraplenkin<br>
 ---
+
+
+---
+name: Tayyab Hussain<br>
+institution/company: NED university of Engineering and Technology<br>
+github: TayyabHussain03<br>
+---
+
+
+-----
+Name:Abhishek Sharma<br>
+Institution/Company: Prabhu Dayal Memorial University<br>
+Github Username: https://github.com/Abhisharma85<br>
+-----
+
+
+---
+name: Vijay Adhikari<br>
+institution/company: BBDITM <br>
+github: 17vijay2002<br>
+---
+
+
+-----
+Name: Athul Joy <br>
+Institution/Company: Lightrains Technolabs Pvt Ltd <br>
+Github Username: iathul<br>
+-----
+
+
+
