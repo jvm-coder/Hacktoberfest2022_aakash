@@ -276,14 +276,14 @@ Institution/Company: VIT Vellore<br>
 Github Username: ManavMuthanna<br>
 -----
 
-  
+
 -----
 Name: Krunal Karena<br>
 Institution/Company: SVNIT<br>
 Github Username: Krunal-Karena<br>
 -----
 
-  
+
 -----
 Name: Dan Brad<br>
 Institution/Company: Maker<br>
@@ -323,15 +323,15 @@ Name: Rishabh Kemni<br>
 Institution/Company: Chitkara University<br>
 Github Username: rishabhkemni<br>
 -----
- 
- 
+
+
  -----
 Name:Samruddhi Gulhane<br>
 Institution/Company: Government Polytechnic Yavatmal<br>
 Github Username: Samruddhiiii<br>
 -----
- 
- 
+
+
  -----
 Name:SONALI SINGH<br>
 Institution/Company: ARMY INSTITUTE OF TECHNOLOGY<br>
@@ -356,4 +356,10 @@ github: TayyabHussain03<br>
 Name:Abhishek Sharma<br>
 Institution/Company: Prabhu Dayal Memorial University<br>
 Github Username: https://github.com/Abhisharma85<br>
+-----
+
+-----
+Name: Athul Joy <br>
+Institution/Company: Lightrains Technolabs Pvt Ltd <br>
+Github Username: iathul<br>
 -----
