@@ -350,6 +350,13 @@ Github Username: YashIndane<br>
 
 
 ---
+name: Stroganov Kirill<br>
+institution/company: Russian Standard Bank<br>
+Github Username: kiraplenkin<br>
+---
+
+
+---
 name: Tayyab Hussain<br>
 institution/company: NED university of Engineering and Technology<br>
 github: TayyabHussain03<br>
@@ -375,3 +382,6 @@ Name: Athul Joy <br>
 Institution/Company: Lightrains Technolabs Pvt Ltd <br>
 Github Username: iathul<br>
 -----
+
+
+
