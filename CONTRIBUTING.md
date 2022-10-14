@@ -400,3 +400,12 @@ name: Reza Alfian<br>
 institution/company: - <br>
 github: iamrezaalfian<br>
 -----
+
+-----
+name: Pratik More<br>
+institution/company: PICT<br>
+github: Comder101<br>
+-----
+
+
+
