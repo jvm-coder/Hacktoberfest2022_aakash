@@ -382,6 +382,11 @@ Name: Athul Joy <br>
 Institution/Company: Lightrains Technolabs Pvt Ltd <br>
 Github Username: iathul<br>
 -----
+-----
+Name: Rashi Chaubal<br>
+Institution/Company: Zeal College of Engineering & Research <br>
+Github Username: 12rashic<br>
+-----
 
 
 
