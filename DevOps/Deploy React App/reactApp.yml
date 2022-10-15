@@ -1,0 +1,15 @@
+---
+
+- hosts: ansible
+  
+  tasks:
+  - name: Create Docker image using Dockerfile
+    command: docker build -t reactapp:latest .
+    args:
+      chdir: /opt/docker
+
+  - name: Create tag to push image onto dockerhub
+    command: docker tag reactapp:latest 07shree/reactapp:latest
+
+  - name: Push docker image
+    command: docker push 07shree/reactapp:latest

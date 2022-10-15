@@ -1,0 +1,105 @@
+import numpy as np
+import cv2
+import urllib.request
+import matplotlib as plt
+from google.colab.patches import cv2_imshow
+
+"""Importing these libraries for colab"""
+
+import torch
+!pip install kornia
+import kornia
+import torchvision
+
+from google.colab import files
+uploaded = files.upload()
+
+img = cv2.imread("Image1.jpg")
+cv2_imshow(img)
+cv2.waitKey(0)
+
+type(img)
+
+cv2_imshow(img)
+
+data: torch.tensor = kornia.image_to_tensor(img, keepdim=False)
+
+# create the operator
+gauss = kornia.filters.GaussianBlur2d((15, 15), (10.5, 10.5))
+
+# blur the image
+blurred: torch.tensor = gauss(data.float())
+
+blurred: np.ndarray = kornia.tensor_to_image(blurred.byte())
+
+cv2_imshow(blurred)
+
+vis = np.concatenate((img, blurred), axis=1)
+cv2_imshow(vis)
+
+"""Method 2 of smoothening :"""
+
+smoothed = cv2.GaussianBlur(img, (9, 9), 10)
+
+cv2_imshow(smoothed)
+
+"""# **2 Edge Detection:**"""
+
+# Sobel Edge Detection
+sobelx = cv2.Sobel(src=blurred, ddepth=cv2.CV_64F, dx=1, dy=0, ksize=5) # Sobel Edge Detection on the X axis
+
+sobely = cv2.Sobel(src=blurred, ddepth=cv2.CV_64F, dx=0, dy=1, ksize=5) # Sobel Edge Detection on the Y axis
+
+sobelxy = cv2.Sobel(src=blurred, ddepth=cv2.CV_64F, dx=1, dy=1, ksize=5) # Combined X and Y Sobel Edge Detection
+
+gray_image = cv2.cvtColor(blurred, cv2.COLOR_BGR2GRAY)
+ 
+cv2_imshow(gray_image)
+cv2.waitKey(0)
+
+# Display Sobel Edge Detection Images
+
+cv2_imshow(sobelx)
+
+cv2.waitKey(0)
+
+cv2_imshow(sobely)
+
+cv2.waitKey(0)
+
+Edge_1 = cv2_imshow(sobelxy)
+
+cv2.waitKey(0)
+
+"""Why canny edge hasnt been used on priority :"""
+
+# Canny Edge Detection
+
+edges = cv2.Canny(image=blurred, threshold1=100, threshold2=200) # Canny Edge Detection
+# Display Canny Edge Detection Image
+cv2_imshow(edges)
+
+cv2.waitKey(0)
+
+cv2.destroyAllWindows()
+
+"""# **3 Edge Enhancement**"""
+
+from PIL import Image
+
+from PIL import ImageFilter
+
+from numpy import asarray
+
+#List of sharpening techniques that didnt work because colab couldnt import respective requiredmodules:
+# .show(), .sharpen(),
+
+#Display the input image)
+cv2_imshow(img)
+
+#Let's make a kernel which we will slide over our image(convolution))
+kernel = np.array([[-1 , -1 , -1] , [-1 , 9 , -1] ,[-1 , -1 , -1]])
+#Now we will perform convolution using open cv for shapening ur image)
+sharp_img = cv2.filter2D(img , -1 , kernel = kernel)
+cv2_imshow(sharp_img)
+

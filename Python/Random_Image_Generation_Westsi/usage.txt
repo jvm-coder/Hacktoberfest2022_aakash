@@ -1,0 +1,5 @@
+cd into directory
+
+run one of (whichever works):
+python main.py 
+python3 main.py
