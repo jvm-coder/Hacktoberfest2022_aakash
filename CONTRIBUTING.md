@@ -400,3 +400,10 @@ name: Reza Alfian<br>
 institution/company: - <br>
 github: iamrezaalfian<br>
 -----
+
+----
+name : Sarthak Singhal<br>
+institution/company : none<br>
+github : Guillotine189<br>
+----
+
