@@ -1,4 +1,12 @@
 -----
+name: Souvik paul<br>
+institution/company: Techno India Universty<br>
+github: Souvik<br>
+-----
+
+
+
+-----
 name: Abhishek Jadhav<br>
 institution/company: Pune Institute of Computer Technology<br>
 github: AbhishekJadhav2002<br>
