@@ -35,6 +35,15 @@ Github Username: KrishChopra22<br>
 
 
 -----
+Name: AGADI JAYASRI<br>
+Institution/Company: Guru Ghasidas Vishwavidyalaya, Bilaspur<br>
+Github Username: Jayasri2103<br>
+-----
+
+
+
+
+-----
 Name: SHARAYU MAHENDRA BANAIT<br>
 Institution/Company: GeeksForGeeks <br>
 Github Username: Sharayu1071<br>
