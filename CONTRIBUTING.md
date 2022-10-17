@@ -448,19 +448,15 @@ Github Username: 12rashic<br>
 name: Niveditha P M<br>
 institution/company: SJCET<br>
 github: Nivedithapm06<br>
-
 ---
 
 ---
-
 name: Reza Alfian<br>
 institution/company: - <br>
 github: iamrezaalfian<br>
-
 ---
 
 ---
-
 name : Sarthak Singhal<br>
 institution/company : none<br>
 github : Guillotine189<br>
@@ -468,20 +464,24 @@ github : Guillotine189<br>
 ---
 
 ---
-
 name: wahyu<br>
 institution/company: - <br>
 github: waw1311<br>
-
 ---
 
 ---
-
 name: Mohammed Abdul Sohail<br>
 institution/company: Indian Institute of Information Technology, Dharwad<br>
 github: abdul-sohail24<br>
+---
+
 
 ---
+name: Oleg Ataman<br>
+institution/company: National Technical University of Ukraine Kyiv Polytechnic Institute<br>
+github: OlegAtaman<br>
+---
+
 
 ---
 name: Arghadip Chatterjee<br>
