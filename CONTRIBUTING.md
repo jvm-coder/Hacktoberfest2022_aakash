@@ -482,3 +482,11 @@ institution/company: Indian Institute of Information Technology, Dharwad<br>
 github: abdul-sohail24<br>
 
 ---
+
+---
+
+name: Aman Kumar<br>
+institution/company: - Deloitte<br>
+github: amankumar6<br>
+
+---
