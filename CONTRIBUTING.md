@@ -476,6 +476,16 @@ github: abdul-sohail24<br>
 ---
 
 
+
+---
+
+name: Aman Kumar<br>
+institution/company: - Deloitte<br>
+github: amankumar6<br>
+
+---
+
+
 ---
 name: Oleg Ataman<br>
 institution/company: National Technical University of Ukraine Kyiv Polytechnic Institute<br>
