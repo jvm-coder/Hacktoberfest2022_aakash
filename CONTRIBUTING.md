@@ -482,3 +482,9 @@ institution/company: Indian Institute of Information Technology, Dharwad<br>
 github: abdul-sohail24<br>
 
 ---
+
+---
+name: Arghadip Chatterjee<br>
+institution/company: Netaji Subhash Engineering College<br>
+github: https://github.com/Arghadip-Chatterjee<br>
+---
