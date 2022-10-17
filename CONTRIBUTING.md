@@ -482,3 +482,9 @@ institution/company: Indian Institute of Information Technology, Dharwad<br>
 github: abdul-sohail24<br>
 
 ---
+
+---
+name: Oleg Ataman
+institution/company: National Technical University of Ukraine Kyiv Polytechnic Institute
+github: OlegAtaman
+---
