@@ -484,7 +484,9 @@ github: abdul-sohail24<br>
 ---
 
 ---
+
 name: Oleg Ataman<br>
 institution/company: National Technical University of Ukraine Kyiv Polytechnic Institute<br>
 github: OlegAtaman<br>
+
 ---
