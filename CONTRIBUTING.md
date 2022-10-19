@@ -1,4 +1,10 @@
 -----
+name: Akash Kumar<br>
+institution/company: Cimage Professional College<br>
+github: DarkAk007<br>
+-----
+
+-----
 name: Souvik paul<br>
 institution/company: Techno India Universty<br>
 github: Souvik<br>
