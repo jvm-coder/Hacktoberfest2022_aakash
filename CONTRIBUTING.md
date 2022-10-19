@@ -1,3 +1,9 @@
+---
+name: Soumik Seal
+institution/company: RNS Memorial High School
+github: Soumik8114
+---
+
 -----
 name: Souvik paul<br>
 institution/company: Techno India Universty<br>
