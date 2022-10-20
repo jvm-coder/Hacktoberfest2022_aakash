@@ -518,7 +518,7 @@ institution/company: Netaji Subhash Engineering College<br>
 github: https://github.com/Arghadip-Chatterjee<br>
 ---
 ---
-name: Akarh A S<br>
+name: Akarsh A S<br>
 institution/company: Sree Chitra Thirunal College of Engineering, Trivandrum.<br>
 github: AkarshAnilkumar<br>
 ---
