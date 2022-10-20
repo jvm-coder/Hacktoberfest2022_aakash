@@ -1,3 +1,9 @@
+---
+name: Soumik Seal
+institution/company: RNS Memorial High School
+github: Soumik8114
+---
+
 -----
 name: Akash Kumar<br>
 institution/company: Cimage Professional College<br>
