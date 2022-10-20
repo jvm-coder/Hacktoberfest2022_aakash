@@ -1,3 +1,8 @@
+/*
+Name : Akarsh A S
+Institute : Sree Chitra Thirunal College of Engineering, Trivandrum
+github: AkarshAnilkumar
+*/
 // C program for insertion sort
 #include <math.h>
 #include <stdio.h>
