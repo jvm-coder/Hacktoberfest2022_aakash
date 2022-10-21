@@ -517,3 +517,10 @@ name: Arghadip Chatterjee<br>
 institution/company: Netaji Subhash Engineering College<br>
 github: https://github.com/Arghadip-Chatterjee<br>
 ---
+
+
+-----
+name: Prabhjot Kaur<br>
+institution/company: Guru Nanak Dev Engineering College<br>
+github: prabhkaur301<br>
+-----

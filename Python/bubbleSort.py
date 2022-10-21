@@ -1,19 +1,26 @@
+#Bubble sort in Python
 def bubbleSort(arr):
     n = len(arr)
-    swapped = False
-    for i in range(n-1):
+ 
+    # Traverse through all array elements
+    for i in range(n):
+ 
+        # Last i elements are already in place
         for j in range(0, n-i-1):
-            if arr[j] > arr[j + 1]:
-                swapped = True
-                arr[j], arr[j + 1] = arr[j + 1], arr[j]
-
-        if not swapped:
-            return
-
-arr = [25, 87, 60, 35, 75, 43, 22]
-
-bubbleSort(arr)
-
-print("Sorted array is:")
-for i in range(len(arr)):
-    print("% d" % arr[i], end=" ")
+ 
+            # traverse the array from 0 to n-i-1
+            # Swap if the element found is greater
+            # than the next element
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+ 
+ 
+# Driver code to test above
+if __name__ == "__main__":
+  arr = [64, 34, 25, 12, 22, 11, 90]
+ 
+  bubbleSort(arr)
+ 
+  print("Sorted array is:")
+  for i in range(len(arr)):
+      print("%d" % arr[i], end=" ")
