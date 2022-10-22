@@ -532,4 +532,11 @@ institution/company: Guru Nanak Dev Engineering College<br>
 github: prabhkaur301<br>
 -----
 
+-----
+
+Name: Sattwikee Ghosh <br>
+Institution/Company: Techno Main Salt Lake <br>
+github: sattwikeeg100 <br>
+
+-----
 
