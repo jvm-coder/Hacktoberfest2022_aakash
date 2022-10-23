@@ -1,48 +1,25 @@
-/*
-Name : Akarsh A S
-Institute : Sree Chitra Thirunal College of Engineering, Trivandrum
-github: AkarshAnilkumar
-*/
-// C program for insertion sort
-#include <math.h>
-#include <stdio.h>
-
-/* Function to sort an array using insertion sort*/
-void insertionSort(int arr[], int n)
+main()
 {
-	int i, key, j;
-	for (i = 1; i < n; i++) {
-		key = arr[i];
-		j = i - 1;
-
-		/* Move elements of arr[0..i-1], that are
-		greater than key, to one position ahead
-		of their current position */
-		while (j >= 0 && arr[j] > key) {
-			arr[j + 1] = arr[j];
-			j = j - 1;
-		}
-		arr[j + 1] = key;
+	int n,i,j,a[100],temp;
+	scanf("%d",&n);
+	for(i=0;i<n;i++)
+	{
+		scanf("%d",&a[i]);
 	}
-}
-
-// A utility function to print an array of size n
-void printArray(int arr[], int n)
-{
-	int i;
-	for (i = 0; i < n; i++)
-		printf("%d ", arr[i]);
-	printf("\n");
-}
-
-/* Driver program to test insertion sort */
-int main()
-{
-	int arr[] = { 12, 11, 13, 5, 6 };
-	int n = sizeof(arr) / sizeof(arr[0]);
-
-	insertionSort(arr, n);
-	printArray(arr, n);
-
-	return 0;
+	for(i=1;i<n;i++)
+	{
+		temp=a[i];
+		j=i-1;
+			while(temp<a[j] && j>=0)
+			{
+				
+				a[j+1]=a[j];
+				j=j-1;
+			}
+		a[j+1]=temp;
+	}
+	printf("Sorted Array:\n");
+	for(i=0;i<n;i++)
+		printf("%d ",a[i]);
+	
 }
