@@ -532,8 +532,29 @@ institution/company: Guru Nanak Dev Engineering College<br>
 github: prabhkaur301<br>
 -----
 
+
 ---
 name: Shreshth Sharma
 institution/company: SRM Modinagar
 github: IceUnderscore
+=======
+-----
+
+Name: Sattwikee Ghosh <br>
+Institution/Company: Techno Main Salt Lake <br>
+github: sattwikeeg100 <br>
+
+-----
+
+-----
+name: Garima Mangal<br>
+institution/company: Indian Institute Of Information Technology Vadodara<br>
+github: AZU-URE<br>
+-----
+
+
+---
+name: Chirag Gupta<br>
+institution/company: VIT Chennai<br>
+github: 20Cypher<br>
 ---
