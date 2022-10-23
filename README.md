@@ -1,5 +1,5 @@
 # Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
-## -----------------This repository has been `EXCLUDED` from hacktoberfest, Do not generate `PR` here, it will be time waste-------------------
+## >>> -----------------This repository has been `EXCLUDED` from hacktoberfest, Do not generate `PR` here, it will be time waste-------------------
 ![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
 
 ## Contributors of `Hacktoberfest 2022`
