@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/Grey"
+    android:minHeight="?attr/actionBarSize"
+    tools:actionBarNavMode="tabs"
+    android:id="@+id/toolbar">
+
+</androidx.appcompat.widget.Toolbar>
