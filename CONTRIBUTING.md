@@ -552,9 +552,14 @@ institution/company: Indian Institute Of Information Technology Vadodara<br>
 github: AZU-URE<br>
 -----
 
-
 ---
 name: Chirag Gupta<br>
 institution/company: VIT Chennai<br>
 github: 20Cypher<br>
+---
+
+---
+name: Nudennie White <br>
+institution/company: Dreams App Development :gem:<br>
+github: Tc2r1<br>
 ---
