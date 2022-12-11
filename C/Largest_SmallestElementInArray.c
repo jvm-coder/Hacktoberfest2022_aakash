@@ -30,6 +30,7 @@ int main()
 	p=min(a,n);
 	q=max(a,n);
 	printf("Largest Element is: %d",q);
-	printf("\nSmallest Element is: %d",p);
+	printf("\nSmallest Element is: %dp);
 	return 0;
 }
+// PROGRAM
