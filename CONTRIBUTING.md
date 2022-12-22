@@ -562,6 +562,6 @@ github: 20Cypher<br>
 
 ---
 name: Dhruv P<br>
-institution/company: Georgia Tech<br>
+institution/company: Georgia Techy<br>
 github: Blastguy<br>
 ---
