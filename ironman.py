@@ -45,3 +45,11 @@ logo(vc2, vc2Goto)
 logo(vc3, vc3Goto)
 turtle.hideturtle()
 turtle.done()
+
+thisdicct = {
+           "brand": "Mustang",
+           "Model: "Ford",
+           "Year": 1964
+}
+for x in thisdict:
+           print(thisdict)
